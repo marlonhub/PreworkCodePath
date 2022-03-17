@@ -40,17 +40,17 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-<img src="https://media.giphy.com/media/knXCcr8NBEZoiAyOfg/giphy.gif" width="480" height="157" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://media.giphy.com/media/knXCcr8NBEZoiAyOfg/giphy.gif">via GIPHY</a></p>
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+<img src="https://media.giphy.com/media/knXCcr8NBEZoiAyOfg/giphy.gif" width="480" height="157" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://media.giphy.com/media/knXCcr8NBEZoiAyOfg/giphy.gif">A player losing!</a></p>
+
+<img src="https://media.giphy.com/media/93nqKGBVfQ9VR7JIBY/giphy.gif" width="480" height="157" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://media.giphy.com/media/93nqKGBVfQ9VR7JIBY/giphy.gif">A player winning!</a></p>
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+None.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
