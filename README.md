@@ -47,27 +47,28 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-None.
+- No outside source was used.
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-
+- The instructions given were straight forward and allowed me a smooth submission. There were no challenged when submitting.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+- After completing my submission I am curious about the backend of web developement. For example, how may a site store the time it took for the user to complete the game while ranking among other players online. This is an idea that has come to mind which allows the game to be played on a greater scale and creates a competitive astmosphere. I have always been curious within the backend of web developement and how it affects the building of the website. It seems as if the backend is the mind of the site which stores the data.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+- I would add multiple levels which will differ in difficulty, this will help the user's ease into the game and become comfortable with the mechanics and the ideas within the game. This will also lead the team to creating an online competitive match-making which users can compete for the faster time taken to complete the sounds given. This is an idea that will also hold a ranking system which will allow users to become more driven within the application while also increasing the completiveness within players which leads to a more enjoyable application, from the simple idea that users enjoy a competitive feature.
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://youtu.be/y0l31PoU3iY
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Marlon M. Cuna
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
